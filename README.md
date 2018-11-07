@@ -5,14 +5,17 @@ Java製のDBスキーマを解析してテーブル一覧やER図を出力して
 
 ## SchemaSpy
 
-Official: http://schemaspy.org/
-Github: https://github.com/schemaspy/schemaspy
+Official
+ : http://schemaspy.org/
+
+Github
+ : https://github.com/schemaspy/schemaspy
 
 ## セットアップ
 
-1. SchemaSpy.jarファイルをgithubからダウンロードする
+1. SchemaSpy.jarファイルを[github](https://github.com/schemaspy/schemaspy/releases/download/v6.0.0/schemaspy-6.0.0.jar)からダウンロードする
 2. ダウンロードしたschemaspy-6.0.0.jarファイルを `lib` フォルダに移動する
-3. JDBC for MySQL（https://dev.mysql.com/downloads/file/?id=480291）をダウンロードする
+3. [JDBC for MySQL](https://dev.mysql.com/downloads/file/?id=480291)をダウンロードする
 4. ダウンロードしたmysql-connector-java-8.0.13.jarを `driver` フォルダに移動する
 
 ## 使い方
